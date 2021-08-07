@@ -2,6 +2,13 @@
 
 Telas do projeto:
 
+![Capturar](https://user-images.githubusercontent.com/16168704/128615641-34fa61ec-ccb9-40e6-91c6-62df05669b8a.JPG)
+![Capturar2](https://user-images.githubusercontent.com/16168704/128615644-0fa5711a-775f-416c-a16e-56a3dc5309ce.JPG)
+![Capturar3](https://user-images.githubusercontent.com/16168704/128615646-685f3595-6261-4e3d-b047-c1d009ec98d7.JPG)
+
+Telas do aplicativo original:  
+
+
 
 ## Getting Started
 
